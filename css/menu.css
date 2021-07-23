@@ -1,0 +1,35 @@
+.menu ul {
+    padding: 0;
+    margin: 0 0 20px 0;
+    list-style: none;
+}
+.col{
+    display: block;
+    padding: 2em;
+    background-color: #6c767d;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    text-align: left; 
+    width: 63%;
+}
+.menu{
+    border-bottom: 2px ridge blue;
+}
+.menu a {
+    display: block;
+    padding: 2em;
+    background-color: white;
+    text-decoration: none;
+    color: #191C26;
+    border-radius: 10px;
+    border: solid;
+    text-align: center; 
+}
+li{
+    width: 80%;
+    margin: auto;
+}
+.menu a:hover {
+    background-color: white;
+}
